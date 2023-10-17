@@ -18,7 +18,7 @@ public class NewTestScript
 
         Assert.AreEqual(false, isActive);
     }
-
+    // 
     [Test]
     public void CatchingErrors()
     {
